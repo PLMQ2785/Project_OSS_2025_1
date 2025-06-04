@@ -6,7 +6,7 @@ def install_matplotlib():
     try:
         #matplotlib를 설치하는데 실패할수도 있으니까 try로 예외처리 시키기
         subprocess.check_call([sys.executable, "-m", "pip", "install", "matplotlib"])
-        print("matplotlib 설치가 완료되었습니다.")
+        print("matplotlib numpy 설치가 완료되었습니다.")
         input("프로그램을 다시 시작해야 합니다. 계속하려면 Enter를 눌러주세요")
         sys.exit()
     except subprocess.CalledProcessError as e:

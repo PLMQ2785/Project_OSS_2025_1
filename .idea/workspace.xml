@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd7ff611-56bc-422c-97b6-45e5f21974c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/OSS_Budget/budget.py" beforeDir="false" afterPath="$PROJECT_DIR$/OSS_Budget/budget.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OSS_Budget/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OSS_Budget/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OSS_Calc/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/OSS_Calc/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OSS_Calc/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OSS_Calc/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,28 +25,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2y2rjwQRsgGXnwvAXvdeaqhb3Sf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20250604_0000",
-    "git-widget-placeholder": "feature/GraphVisulation",
-    "last_opened_file_path": "G:/Lecture/YU/3G/1/OSSWBasic/Subject4/Project_OSS_2025_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20250604_0000&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/GraphVisulation&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Lecture/YU/3G/1/OSSWBasic/Subject4/Project_OSS_2025_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749043647541</updated>
-      <workItem from="1749043648568" duration="4489000" />
+      <workItem from="1749043648568" duration="9017000" />
     </task>
     <servers />
   </component>
