@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2025-06-05",
+        "category": "식비",
+        "description": "점심식대",
+        "amount": 6000
+    },
+        {
+        "date": "2025-06-05",
+        "category": "식비",
+        "description": "저녁식대",
+        "amount": 8000
+    },
+    {
+        "date": "2025-06-05",
+        "category": "교통",
+        "description": "통근",
+        "amount": 1950
+    },
+        {
+        "date": "2025-06-05",
+        "category": "출장",
+        "description": "대구->부산 교통비",
+        "amount": 3500
+    }
+]
